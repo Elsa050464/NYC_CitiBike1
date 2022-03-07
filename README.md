@@ -4,7 +4,7 @@ In this project we were tasked to study and analyze the Bike sharing business in
 ## Applications
 Tableau Pandas
 Results:
-![Deliverable 2] https://github.com/Elsa050464/NYC_CitiBike1/blob/9ff2bd7e054692257bc8f45175b2e671d2ea988d/Deliverable%202.PNG
+!https://github.com/Elsa050464/NYC_CitiBike1/commit/9ff2bd7e054692257bc8f45175b2e671d2ea988d#diff-e34c3ea1bc5f4a3d2e497b209fd9eee9356f01d7c6646e2c76d5e09f0bdd0727
 Deliverable 2
 1.	Men checked out bikes more often
 2.	Majority of the usage happened during the morning commute (7-9 a.m.) and evening commute (4-7 p.m.) during the week (except for Wednesday evenings) and 2) all day long on weekends.
