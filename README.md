@@ -5,7 +5,8 @@ In this project we were tasked to study and analyze the Bike sharing business in
 Tableau Pandas
 
 ## Results:
-![Deliverable](https://github.com/Elsa050464/NYC_CitiBike1/commit/9ff2bd7e054692257bc8f45175b2e671d2ea988d#diff-e34c3ea1bc5f4a3d2e497b209fd9eee9356f01d7c6646e2c76d5e09f0bdd0727)
+![image](https://user-images.githubusercontent.com/93121665/156952718-f4cdcb80-9e3c-48b2-acf9-a97f361f9d28.png)
+
 
 Deliverable 2
 1.	Men checked out bikes more often
