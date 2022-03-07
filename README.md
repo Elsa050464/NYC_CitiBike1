@@ -14,6 +14,6 @@ Deliverable 2
 3.	Although usage is significantly higher among males, the pattern of hours where bikes are most-used is the same regardless of gender.
 4.	Subscribers account for more of the weekday bike activity, while customers and subscribers account for more similar amounts of weekend bike useage.
 ## Summary
-Des Moines demographics might be different but feasible considering the population. It also minimize city pollution.  Also, like New York, they can expand to other neighboring cities such as Clive and West Des Moines along the existing trail network. More outreach should be done to attract female riders, but male users seem a reliable market. And main usage seems focused around morning and evening commute times. The full tableau report and presentation can be viewwed in this link: https://public.tableau.com/app/profile/elsa.s.bustos/viz/NYC_CitiBike1
+Des Moines demographics might be different but feasible considering the population. It also minimize city pollution.  Also, like New York, they can expand to other neighboring cities such as Clive and West Des Moines along the existing trail network. More outreach should be done to attract female riders, but male users seem a reliable market. I find that most usage seems to focus around morning and evening commute times which coincides to peak traffic congestion. The full tableau report and presentation can be viewwed to this link: https://public.tableau.com/app/profile/elsa.s.bustos/viz/NYC_CitiBike1
 ## Resources Datasets from NYC CitiBike
 
